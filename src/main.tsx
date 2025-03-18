@@ -46,10 +46,8 @@ Devvit.addCustomPostType({
           height="48px"
           width="48px"
         />
-        <text size="large">{`Click counter: ${counter}`}</text>
-        <button appearance="primary" onPress={() => setCounter((counter) => counter + 1)}>
-          Click me!
-        </button>
+        <text size="large">Enter Caption!</text>
+        <button appearance="primary">Submit!</button>
       </vstack>
     );
   },
