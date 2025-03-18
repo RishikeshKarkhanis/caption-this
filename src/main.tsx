@@ -39,7 +39,7 @@ Devvit.addCustomPostType({
     return (
       <vstack height="100%" width="100%" gap="medium" alignment="center middle">
         <image
-          url="logo.png"
+          url="logo1.png"
           description="logo"
           imageHeight={256}
           imageWidth={256}
