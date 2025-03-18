@@ -39,12 +39,12 @@ Devvit.addCustomPostType({
     return (
       <vstack height="100%" width="100%" gap="medium" alignment="center middle">
         <image
-          url="logo1.png"
-          description="logo"
-          imageHeight={256}
-          imageWidth={256}
-          height="48px"
-          width="48px"
+          url="meme.jpg"
+          description="meme"
+          imageHeight={500}
+          imageWidth={500}
+          height="500px"
+          width="500px"
         />
         <text size="large">Enter Caption!</text>
         <button appearance="primary">Submit!</button>
